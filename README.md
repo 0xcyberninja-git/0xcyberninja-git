@@ -10,7 +10,7 @@ Visit My [PORTFOLIO](https://steelblue-seahorse-933899.hostingersite.com/index.h
 ---
 
 ## 🌟 About Me
-- 👀 **Interested in:** Cybersecurity, Threat Analysis, AI-Powered Solutions
+- 👀 **Interested in:** Cybersecurity, Threat Analysis, AI-Powered Solutions & Part Time Freelancer (⚡Check my Freelance Projects⚡)
 - 🌱 **Currently Learning:** Penetration Testing, Digital Forensics, and AI Integration
 - 💞️ **Looking to Collaborate On:** Cybersecurity Projects and AI-based Tools
 - 📫 **How to Reach Me:** [pratiekbhivgade@gmail.com](mailto:pratiekbhivgade@gmail.com)
@@ -35,6 +35,15 @@ Visit My [PORTFOLIO](https://steelblue-seahorse-933899.hostingersite.com/index.h
 
 ### 🕵️ Deep-Fake Analyzer Tool (In Progress)
 - **Description:** A manual and automated tool for identifying deepfakes, leveraging machine learning and forensic analysis.
+
+---
+## 📂 FreeLance Projects 
+
+ ### Govt. Jobs Portal 
+The Govt. Job Portal is a user-friendly web platform designed to help job seekers find and apply for government job opportunities. Hosted at https://glittery-gecko-865ae0.netlify.app/, the website offers a clean interface to browse job listings, access detailed job information, and stay updated on the latest openings in the public sector. Built with modern web technologies, it ensures a seamless experience across devices, making government job searches efficient and accessible.
+
+### Nexus Model Studio Website
+Nexus Model Studio is a custom-developed website created for a modeling agency client as a freelance project. Hosted at https://white-skunk-574882.hostingersite.com/index.html, the site serves as a professional platform to promote the agency’s models, services, and portfolio. With a modern, dark-themed design accented by vibrant colors, it delivers a visually captivating experience tailored to the modeling industry’s aesthetic standards, engaging clients in fashion, advertising, and entertainment.
 
 ---
 
