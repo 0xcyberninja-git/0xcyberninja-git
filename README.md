@@ -21,9 +21,11 @@ Visit My [PORTFOLIO](https://steelblue-seahorse-933899.hostingersite.com/index.h
 
 ## 🚀 Skills & Expertise
 - **🛡️ Cybersecurity Tools:** Wireshark, N-Map, Burp Suite, IDS/IPS
+-   🧠 LLMs & AI Agents – Building context-aware agents for security and productivity
 - **🔍 Reconnaissance:** Maltego, TheHarvester, OSINT Frameworks
-- **💻 Programming:** Python, HTML, JS, CSS
-- **🤖 AI & Automation:** Built AI agents using LLMs
+-   🎛️ Embedded AI – Arduino automation, robotics + AI integration
+-   🧬 Deepfake Detection – Manual + ML-driven detection tools
+-   🌐 Full-Stack AI Projects – Python | JS | HTML | CSS | APIs
 - **📊 Productivity Tools:** MS Office (Word, PowerPoint, Excel)
 
 ---
