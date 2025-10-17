@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pratiek Bhivgade AKA ( 0xcyberninja-git ) 
+# 👋 Hi, I'm Prateek Bheevgade AKA ( 0xcyberninja-git ) 
 
 Visit My [PORTFOLIO](https://steelblue-seahorse-933899.hostingersite.com/index.html) 
 ---
@@ -13,7 +13,7 @@ Visit My [PORTFOLIO](https://steelblue-seahorse-933899.hostingersite.com/index.h
 - 👀 **Interested in:** Cybersecurity, Threat Analysis, AI-Powered Solutions & Part Time Freelancer (⚡Check my Freelance Projects⚡)
 - 🌱 **Currently Learning:** Penetration Testing, Digital Forensics, and AI Integration
 - 💞️ **Looking to Collaborate On:** Cybersecurity Projects and AI-based Tools
-- 📫 **How to Reach Me:** [pratiekbhivgade@gmail.com](mailto:pratiekbhivgade@gmail.com)
+- 📫 **How to Reach Me:** [prateekbheevgade11@gmail.com](mailto:prateekbheevgade11@gmail.com)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I can automate Arduino coding using AI bots like ChatGPT!
 
@@ -70,7 +70,7 @@ Nexus Model Studio is a custom-developed website created for a modeling agency c
 ---
 
 ## 🌐 Let's Connect!
-- [📧 Email](mailto:pratiekbhivgade@gmail.com)
+- [📧 Email](mailto:prateekbheevgade11@gmail.com)
 - [💼 LinkedIn](https://www.linkedin.com/in/pratiekbhivgade/) 
 - [🐙 GitHub](https://github.com/0xcyberninja-git)
 
