@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prateek Bheevgade AKA ( 0xcyberninja-git ) 
 
-Visit My [PORTFOLIO](https://steelblue-seahorse-933899.hostingersite.com/index.html) 
+Visit My [PORTFOLIO](https://pb-portfolio-three.vercel.app/) 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0xcyberninja-git&color=blue&style=flat-square)
